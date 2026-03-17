@@ -64,5 +64,6 @@ php artisan ui bootstrap --auth
 16. Crear Modelos, Controladores y Vistas
 17. Crear las carpetas para las vistas
 
-Ejecutar la aplicacion: npm run dev
-ejecutar el servidor en otra terminal: php artisan serve
+Ejecutar la aplicacion: npm run dev. 
+
+Ejecutar el servidor en otra terminal: php artisan serve
